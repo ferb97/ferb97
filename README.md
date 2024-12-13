@@ -1,7 +1,5 @@
 # Hi, I am Abrar Mahmud 👋
 
----
-
 I am currently studying **Computer Science and Engineering** at **Bangladesh University of Engineering and Technology (BUET)**. 
   - Mostly worked on the **backend development** for my projects, have basic understanding of **frontend technologies**.
   - Currently working on **spatiotemporal modeling** for my thesis, hands-on experience in **image classification tasks** for my **machine learning project**.
@@ -12,8 +10,6 @@ I am currently studying **Computer Science and Engineering** at **Bangladesh Uni
 ---
 
 ## 📞 Contact Me
-
----
 
 <div align="left">
   <a href="mailto:piyal.abrarmahmud@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"></a>
@@ -26,8 +22,6 @@ I am currently studying **Computer Science and Engineering** at **Bangladesh Uni
 ---
 
 ## 🛠️ Tech Stack
-
----
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -70,12 +64,9 @@ I am currently studying **Computer Science and Engineering** at **Bangladesh Uni
 ![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
-
 ---
 
 ## 🔍 GitHub Insights
-
----
 
 <div align="center">
 
