@@ -13,6 +13,8 @@ I am currently studying **Computer Science and Engineering** at **Bangladesh Uni
 
 ## 📞 Contact Me
 
+---
+
 <div align="left">
   <a href="mailto:piyal.abrarmahmud@gmail.com" target="_blank"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="Email"></a>
   <a href="https://www.linkedin.com/in/abrar-mahmud-1596621b2/" target="_blank"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"></a>
@@ -24,6 +26,8 @@ I am currently studying **Computer Science and Engineering** at **Bangladesh Uni
 ---
 
 ## 🛠️ Tech Stack
+
+---
 
 ### Programming Languages
 ![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white)
@@ -71,6 +75,8 @@ I am currently studying **Computer Science and Engineering** at **Bangladesh Uni
 
 ## 🔍 GitHub Insights
 
+---
+
 <div align="center">
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ferb97&theme=algolia)
@@ -80,3 +86,5 @@ I am currently studying **Computer Science and Engineering** at **Bangladesh Uni
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=ferb97&theme=algolia) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ferb97&theme=algolia&utcOffset=8)
 
 </div>
+
+---
