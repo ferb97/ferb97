@@ -7,6 +7,7 @@ I am currently studying **Computer Science and Engineering** at **Bangladesh Uni
   - Looking for **full-time Software Engineering roles** and **CS-related research opportunities**.
   - Open for **collaboration** on CS research and **open-source development** projects.
 
+Here is my [CV](Abrar_Mahmud_Final_CV.pdf)
 ---
 
 ## 📞 Contact Me
